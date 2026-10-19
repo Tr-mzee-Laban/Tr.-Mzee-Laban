@@ -1,2 +1,2 @@
 # Tr.-Mzee-Laban
-Reading and writing facilitator 
+personal app for tr.mzee laban kanyesigye 
